@@ -16,7 +16,7 @@ try {
         "maceo": "iamrock69",
         "grant": "ilovetodraw69",
         "eddie": "ilovemtg69",
-        "guest": "guestuser69",
+        "guest": "guestuser69"
       // Add more users as needed
     };
 
